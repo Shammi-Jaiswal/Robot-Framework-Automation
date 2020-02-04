@@ -1,0 +1,64 @@
+You nedd below configuration to run this package:
+1) Python 3.7.5
+2) java version "1.8.0_231"
+3) Chrome WebDriver or any other browser of your choice
+4) pip list
+Package                         Version
+------------------------------- -----------
+Appium-Python-Client            0.48
+attrs                           19.3.0
+beautifulsoup4                  4.8.1
+browsermob-proxy                0.8.0
+certifi                         2019.9.11
+chardet                         3.0.4
+cx-Oracle                       7.2.3
+decorator                       4.4.1
+docutils                        0.15.2
+ibm-db                          3.0.1
+idna                            2.8
+importlib-metadata              0.23
+jsonpatch                       1.24
+jsonpointer                     2.0
+jsonschema                      3.1.1
+kitchen                         1.2.6
+more-itertools                  7.2.0
+MouseInfo                       0.1.2
+numpy                           1.17.4
+Pillow                          6.2.1
+pip                             19.3.1
+psutil                          5.6.5
+PyAutoGUI                       0.9.48
+PyGetWindow                     0.0.8
+Pygments                        2.4.2
+PyMsgBox                        1.0.7
+PyMySQL                         0.9.3
+pyodbc                          4.0.27
+pyperclip                       1.7.0
+PyPubSub                        3.3.0
+PyRect                          0.1.4
+pyrsistent                      0.15.5
+PyScreeze                       0.1.25
+pytest-runner                   5.2
+PyTweening                      1.0.3
+pywin32                         227
+requests                        2.22.0
+robotframework                  3.1.2
+robotframework-appiumlibrary    1.5.0.4
+robotframework-databaselibrary  1.2.4
+robotframework-httplibrary      0.4.2
+robotframework-requests         0.6.2
+robotframework-ride             1.7.3.1
+robotframework-selenium2library 3.0.0
+robotframework-seleniumlibrary  4.1.0
+robotframeworklexer             1.1
+selenium                        3.141.0
+setuptools                      41.2.0
+six                             1.13.0
+soupsieve                       1.9.5
+urllib3                         1.25.7
+vcversioner                     2.16.0.0
+waitress                        1.3.1
+webbot                          0.1.4
+WebOb                           1.8.5
+WebTest                         2.0.33
+wxPython                        4.0.7.post2
